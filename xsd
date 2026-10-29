@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<breakfast_menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+                xsi:noNamespaceSchemaLocation="menu.xsd">
+
+    <food type="sweet">
+
+        <name>Pancakes</name>
+
+        <price unit="EUR">5.50</price>
+
+        <description>Pancakes with honey</description>
+
+        <calories>450</calories>
+
+    </food>
+
+    <food type="salty">
+
+        <name>Omelette</name>
+
+        <price unit="EUR">7.00</price>
+
+        <description>Eggs with cheese</description>
+
+        <calories>350</calories>
+
+    </food>
+
+</breakfast_menu>
